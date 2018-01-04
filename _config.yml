@@ -1,6 +1,7 @@
 title:            Notepad
 description:      "Blogging is fun"
 logo:             logo3.png
+content:          Test
 disqus_shortname: hmfaysal
 share:            false #控制是否包含share.html {% if site.share %}{% include share.html %}{% endif %}
 
@@ -41,6 +42,8 @@ links:
     url: /featured
   - title: Categories
     url: /categories
+  - title: Tags
+    url: /tags
   - title: About
     url: /hossain-mohd-faysal
 
